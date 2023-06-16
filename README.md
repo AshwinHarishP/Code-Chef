@@ -1,1 +1,1 @@
-                                      This directory contains "Code Chef" coding practices
+                                  This directory contains "Code Chef" coding practices
